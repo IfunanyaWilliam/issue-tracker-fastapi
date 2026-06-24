@@ -1,0 +1,30 @@
+[
+  {
+    "user_id": "de3f9820-c7f4-4afd-9cae-5c0b7f6f98f3",
+    "first_name": "Avery",
+    "last_name": "Morgan",
+    "title": "Support Engineer",
+    "department_id": "D001"
+  },
+  {
+    "user_id": "7b1f4d31-2f5c-4d10-91bf-91a4c2f134ae",
+    "first_name": "Jordan",
+    "last_name": "Patterson",
+    "title": "Product Manager",
+    "department_id": "D002"
+  },
+  {
+    "user_id": "fad8bcbf-9d93-4a00-b25a-ede14bf9bb75",
+    "first_name": "Emilia",
+    "last_name": "Ross",
+    "title": "QA Specialist",
+    "department_id": "D003"
+  },
+  {
+    "user_id": "9c1b454a-56b0-4f7c-aad1-0c64a9d9f32d",
+    "first_name": "Miles",
+    "last_name": "Chen",
+    "title": "Customer Success",
+    "department_id": "D004"
+  }
+]

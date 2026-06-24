@@ -18,6 +18,7 @@
     "title": "Issue One",
     "description": "This is the first Issue",
     "status": "open",
-    "priority": "medium"
+    "priority": "medium",
+    "user_id": "de3f9820-c7f4-4afd-9cae-5c0b7f6f98f3"
   }
 ]
