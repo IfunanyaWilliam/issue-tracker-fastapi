@@ -22,6 +22,11 @@ class IssueCreate(BaseModel):
     priority: IssuePriority = IssuePriority.medium
 
 
+class IssueAssign(BaseModel):
+    issue_id: str
+    user_id: str
+
+
 class IssueUpdate(BaseModel):
     title: Optional[str] = Field(None, min_length=3, max_length=100)
     description: Optional[str] = Field(None, min_length=5, max_length=1000)
@@ -36,3 +41,4 @@ class IssueOut(BaseModel):
     description: str
     status: IssueStatus
     priority: IssuePriority
+    user_id: str = ""
